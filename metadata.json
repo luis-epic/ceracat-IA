@@ -1,0 +1,6 @@
+{
+  "name": "Ceramic Cat Mug Studio",
+  "description": "Crea y personaliza hermosas tazas de café con forma de gato utilizando cerámica brillante, detalles dorados, estilos minimalistas e iluminación de estudio 3D impulsado por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
